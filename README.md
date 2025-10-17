@@ -1,7 +1,7 @@
 # Bienvenidos a mi repositorio principal de github
 
 #Desarrollo de Aplicaciones Multiplataforma
-#            ASIGNATURAS
+<h1>#            ASIGNATURAS</h1>
 # Programacion
 # Lenguaje de marcas
 # Base de datos
@@ -10,3 +10,11 @@
 # Proyecto
 # Digitalizacion
 # Ingles
+body{
+
+
+
+
+
+
+}
