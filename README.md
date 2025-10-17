@@ -10,11 +10,4 @@
 # Proyecto
 # Digitalizacion
 # Ingles
-body{
 
-
-
-
-
-
-}
